@@ -498,6 +498,10 @@ a {
         gap: 24px
     }
 
+    .work h3{
+        font-size: 19px;
+    }
+
     .image-button img {
         height: 235px
     }
