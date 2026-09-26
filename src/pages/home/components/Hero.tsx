@@ -38,15 +38,15 @@ export default function Hero() {
           <div className="mt-8 md:mt-9 flex flex-col md:flex-row md:items-center md:justify-center gap-3">
             <a
               href="#works"
-              className="inline-flex items-center justify-center whitespace-nowrap rounded-full bg-primary-600 text-background-50 px-7 py-3.5 font-label text-[13px] tracking-[0.08em] hover:bg-primary-700 transition-colors cursor-pointer"
+              className="inline-flex items-center justify-center whitespace-nowrap rounded-full bg-primary-600 text-background-50 px-7 py-3.5 font-label text-[13px] tracking-[0.08em] hover:bg-primary-700 transition-colors cursor-pointer md:w-[180px]"
             >
-              制作に携わったサイト
+              制作実績
             </a>
             <a
               href="#skills"
-              className="inline-flex items-center justify-center whitespace-nowrap rounded-full border border-foreground-950/20 text-foreground-950 px-7 py-3.5 font-label text-[13px] tracking-[0.08em] hover:bg-foreground-950/5 transition-colors cursor-pointer"
+              className="inline-flex items-center justify-center whitespace-nowrap rounded-full border border-foreground-950/20 text-foreground-950 px-7 py-3.5 font-label text-[13px] tracking-[0.08em] hover:bg-foreground-950/5 transition-colors cursor-pointer md:w-[180px]"
             >
-              スキル・経歴を見る
+              スキル・経歴
             </a>
           </div>
         </div>

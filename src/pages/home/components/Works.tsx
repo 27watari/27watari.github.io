@@ -74,10 +74,9 @@ export default function Works() {
                     href={work.url}
                     target="_blank"
                     rel="noreferrer"
-                    className="mt-6 inline-flex items-center gap-2 font-label text-[11px] tracking-[0.2em] uppercase text-foreground-700 group-hover:text-primary-600 transition-colors cursor-pointer"
+                    className="mt-6 inline-flex items-center gap-2 font-label text-[11px] tracking-[0.2em] uppercase text-primary-600 group-hover:text-primary-700 transition-colors cursor-pointer"
                   >
                     サイトを見る
-                    <i className="ri-arrow-right-up-line w-4 h-4 flex items-center justify-center transition-transform duration-300 group-hover:translate-x-0.5 group-hover:-translate-y-0.5" />
                   </a>
                 ) : (
                   <span className="mt-6 inline-flex items-center gap-2 font-label text-[11px] tracking-[0.2em] uppercase text-foreground-400">

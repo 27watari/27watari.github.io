@@ -1,10 +1,10 @@
 export const works = [
   {
     id: "bouon-kouji",
-    title: "防音工事.com",
+    title: "防音室の施工事例掲載サイト",
     category: "コーポレートサイト",
     summary:
-      "防音工事、リフォームの施工事例サイト。画像主体の施工事例ページの更新を中心に、既存ページのリニューアル、レイアウト調整を担当しました。",
+      "画像主体の施工事例ページの更新を中心に、既存ページのリニューアル、レイアウト調整を担当しました。",
     tags: ["HTML", "CSS"],
     image:
       "https://storage.helloreaddy.io/project_files/1a95bb11-e279-4085-a76e-0522cb3e10df/5520fbd2-55d6-476d-9869-e24e44f4e0fd_compressed_bouon-kouji.webp",
@@ -13,10 +13,10 @@ export const works = [
   },
   {
     id: "coldbreath",
-    title: "コールドブレス株式会社",
+    title: "ゲーム・マルチメディア制作会社のWEBサイト",
     category: "コーポレートサイト",
     summary:
-      "ゲーム・マルチメディア制作を行う企業のコーポレートサイト。既存サイトのリニューアルを中心に、HTML/CSSでのレイアウト修正やレスポンシブ対応を担当しました。",
+      "既存サイトのリニューアルを中心に、HTML/CSSでのレイアウト修正やレスポンシブ対応を担当しました。",
     tags: ["HTML", "CSS"],
     image:
       "https://storage.helloreaddy.io/project_files/1a95bb11-e279-4085-a76e-0522cb3e10df/3cfcfa97-0060-4e59-a6c4-6e9dffcc7918_compressed_coldbreath.webp",
@@ -25,7 +25,7 @@ export const works = [
   },
   {
     id: "dsp-corporation",
-    title: "D.S.Pコーポレーション",
+    title: "施工会社のコーポレートサイト",
     category: "コーポレートサイト",
     summary:
       "防音工事、リフォームを手がける企業のコーポレートサイト。既存サイトのリニューアル、Wordpressテーマカスタマイズ、施工事例の更新を担当しました。",
@@ -37,7 +37,7 @@ export const works = [
   },
   {
     id: "trip-pallet",
-    title: "Trip Pallet",
+    title: "旅行スケジュール管理・共有サイト",
     category: "個人開発 / Webアプリ",
     summary:
       "旅程の計画から共有までをシームレスに行う個人開発のWebアプリ。企画・UIデザイン・コーディング調整を担当し、Bolt.newを活用して構築しています。",
